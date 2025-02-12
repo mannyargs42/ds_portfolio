@@ -17,30 +17,35 @@ buttons:
   filter: "basic"
 - name: Language
   filter: "language"
-- name: Container
-  filter: "container"
-- name: Others
-  filter: "others"
+#- name: Container
+#  filter: "container"
+- name: Cloud
+  filter: "cloud"
+#- name: Library
+#  filter: "library"
+#- name: Others
+#  filter: "others"
 
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: Kubernetes
-  logo: /images/sections/skills/kubernetes.png
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
-  categories: ["container"]
-  url: "https://kubernetes.io/"
+- name: Python
+  logo: /images/sections/skills/python-logo.png
+  summary: "Skilled in interacting with APIs, automating tasks and deploying applications with Python. Expertise working with libraries such as Numpy, pandas, Plotly, selenium and scikit-learn to process data, perform exploratory data analysis (EDA), visualize data and build machine learning models."
+  categories: ["language"]
+  url: "https://www.python.org/"
 
-- name: Go Development
-  logo: /images/sections/skills/go.png
-  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
-  categories: ["basic", "language"]
-  url: "https://golang.org/"
 
-- name: Cloud Computing
-  logo: /images/sections/skills/cloud.png
-  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
-  categories: ["others"]
+#- name: Go Development
+#  logo: /images/sections/skills/go.png
+#  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
+#  categories: ["basic", "language"]
+#  url: "https://golang.org/"
+
+- name: AWS
+  logo: /images/sections/skills/AWS_Logo.png
+  summary: "Certified Cloud Practitioner. Used AWS Lambda, Amazon Athena, an S3 data lake, and AWS Step Functions to build a automated data pipelines and databases."
+  categories: ["cloud"]
 
 - name: Docker
   logo: /images/sections/skills/docker.svg
@@ -48,24 +53,25 @@ skills:
   categories: ["container"]
   url: "https://www.docker.com/"
 
-- name: Prometheus
-  logo: /images/sections/skills/prometheus.png
-  summary: "Capable of setup, configure Prometheus metrics. Experienced with PromQL, AlertManager. Also, experienced with writing metric exporters."
-  categories: ["basic"]
+- name: SQL
+  logo: /images/sections/skills/SQL_Logo.png
+  summary: "Experienced creating databases and data tables with PostgreSQL and Amazon Athena. Used queries to retrieve and manipulate data from relational databases."
+  categories: ["language"]
   url: "https://prometheus.io/"
 
-- name: Linux
-  logo: /images/sections/skills/linux.png
-  summary: "Using as the main operating system. Capable of writing bash/shell scripts."
-  categories: ["others"]
+#- name: Linux
+#  logo: /images/sections/skills/linux.png
+#  summary: "Using as the main operating system. Capable of writing bash/shell scripts."
+#  categories: ["others"]
 
 - name: Git
   logo: /images/sections/skills/git.png
-  summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
+  summary: "Worked with git-based development in graduate program, work and personal projects. Mainly, I've used Github for project collaboration and version control."
   categories: ["basic"]
   url: "https://git-scm.com/"
 
-- name: C++
-  logo: /images/sections/skills/c++.png
-  summary: "Know basic C/C++ programming. Used for contest programming and problem solving."
+- name: Power BI
+  logo: /images/sections/skills/Power_BI_logo.png
+  summary: "Extensive experience building BI dashboards. Built automated data pipelines and hundreds of visualizations over the years to provide fast, up-to-date dashboards for teams."
   categories: ["basic", "language"]
+  url: "https://www.microsoft.com/en-us/power-platform/products/power-bi"
