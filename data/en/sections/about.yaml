@@ -73,6 +73,11 @@ badges:
   badge: "https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"
 
 - type: certification
+  name: Databricks GenAI Fundamentals Accredited
+  url: "https://www.databricks.com/learn/training/generative-ai-fundamentals-accreditation"
+  badge: "https://achievement-images.teamtreehouse.com/badges_SQL_Basics_Stage1.png"
+
+- type: certification
   name: Istio and IBM Cloud Kubernetes Service
   url: "https://www.linkedin.com/learning/certificates/c11df939dc9ce8c7837755d69207c62098f6b1ba382d689f728372e34075ebfd"
   badge: "https://media.licdn.com/dms/image/v2/D4D22AQHOo4P3NuX7_g/feedshare-shrink_1280/feedshare-shrink_1280/0/1698182893876?e=1741824000&v=beta&t=uMJw4uyrIQFWUHl7bpIs37v7W4jdsug22TfqxCaVlto"
@@ -81,6 +86,12 @@ badges:
 #  name: Artificial Intelligence and Machine Learning
 #  url: "https://www.credly.com/org/grupo-bancolombia/badge/artificial-intelligence-and-machine-learning"
 #  badge: "https://images.credly.com/size/680x680/images/e027514f-9d07-4b29-862f-fe21a8aaebf1/ae.png"
+
+#- type: certification
+#  name: Artificial Intelligence and Machine Learning
+#  url: "https://www.credly.com/org/grupo-bancolombia/badge/artificial-intelligence-and-machine-learning"
+#  badge: "https://images.credly.com/size/680x680/images/e027514f-9d07-4b29-862f-fe21a8aaebf1/ae.png"
+
 
 - type: soft-skill-indicator
   name: Communication
