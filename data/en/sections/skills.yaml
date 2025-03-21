@@ -3,7 +3,7 @@ section:
   name: Skills
   id: skills
   enable: true
-  weight: 2
+  weight: 4
   showOnNavbar: true
   filter: true
   # Can optionally hide the title in sections
@@ -47,11 +47,11 @@ skills:
   summary: "Certified Cloud Practitioner. Used AWS Lambda, Amazon Athena, an S3 data lake, and AWS Step Functions to build a automated data pipelines and databases."
   categories: ["cloud"]
 
-- name: Docker
-  logo: /images/sections/skills/docker.svg
-  summary: "Write most of the programs as dockerized container. Experienced with multi-stage, multi-arch build process."
-  categories: ["container"]
-  url: "https://www.docker.com/"
+# - name: Docker
+  # logo: /images/sections/skills/docker.svg
+  # summary: "Write most of the programs as dockerized container. Experienced with multi-stage, multi-arch build process."
+  # categories: ["container"]
+  # url: "https://www.docker.com/"
 
 - name: SQL
   logo: /images/sections/skills/SQL_Logo.png
@@ -73,5 +73,5 @@ skills:
 - name: Power BI
   logo: /images/sections/skills/Power_BI_logo.png
   summary: "Extensive experience building BI dashboards. Built automated data pipelines and hundreds of visualizations over the years to provide fast, up-to-date dashboards for teams."
-  categories: ["basic", "language"]
+  categories: ["basic"]
   url: "https://www.microsoft.com/en-us/power-platform/products/power-bi"

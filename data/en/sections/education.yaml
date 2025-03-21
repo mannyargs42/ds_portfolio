@@ -4,7 +4,7 @@ section:
   id: education
   template: sections/education.html # Use "sections/education-alt.html for alternate template.
   enable: true
-  weight: 4
+  weight: 3
   showOnNavbar: true
   # Can optionally hide the title in sections
   # hideTitle: true
@@ -63,8 +63,8 @@ degrees:
     logo: /images/sections/education/UCDavisSeal.png
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/education/university.jpg
-  grade: #(optional)
-    scale: GPA
-    achieved: 3.4
-    outOf: 4
+  # grade: #(optional)
+    # scale: GPA
+    # achieved: 3.4
+    # outOf: 4
   

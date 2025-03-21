@@ -75,12 +75,12 @@ badges:
 - type: certification
   name: Databricks GenAI Fundamentals Accredited
   url: "https://www.databricks.com/learn/training/generative-ai-fundamentals-accreditation"
-  badge: "https://achievement-images.teamtreehouse.com/badges_SQL_Basics_Stage1.png"
+  badge: "https://www.databricks.com/sites/default/files/2023-06/fundamentals-badge-generative-ai.png?v=1686312388"
 
 - type: certification
-  name: Istio and IBM Cloud Kubernetes Service
-  url: "https://www.linkedin.com/learning/certificates/c11df939dc9ce8c7837755d69207c62098f6b1ba382d689f728372e34075ebfd"
-  badge: "https://media.licdn.com/dms/image/v2/D4D22AQHOo4P3NuX7_g/feedshare-shrink_1280/feedshare-shrink_1280/0/1698182893876?e=1741824000&v=beta&t=uMJw4uyrIQFWUHl7bpIs37v7W4jdsug22TfqxCaVlto"
+  name: Kanban for Developers
+  url: "https://www.linkedin.com/learning/agile-software-development-kanban-for-developers/putting-kanban-to-work-in-your-development-team"
+  badge: "https://media.licdn.com/dms/image/v2/D4D22AQHOo4P3NuX7_g/feedshare-shrink_1280/feedshare-shrink_1280/0/1698182893876?e=1745452800&v=beta&t=6Q08CkJntrXpNi9CXmQiEALWjwdtUcxRG5KF3ZdWp24"
 
 #- type: certification
 #  name: Artificial Intelligence and Machine Learning
@@ -95,17 +95,17 @@ badges:
 
 - type: soft-skill-indicator
   name: Communication
-  percentage: 85
+  percentage: 95
   color: blue
 
 - type: soft-skill-indicator
   name: Team Work
-  percentage: 95
+  percentage: 100
   color: yellow
 
 - type: soft-skill-indicator
   name: Problem-Solving
-  percentage: 85
+  percentage: 95
   color: orange
 
 # you can also provide color code instead of the color name
