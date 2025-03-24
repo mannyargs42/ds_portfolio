@@ -10,15 +10,15 @@ section:
 
 # Your achievements achievements
 achievements:
-- title: Best Presenter
-  image: /images/sections/achievements/presenter.jpg
-  summary: Best presenter in the 2020 XYZ conference.
-- title: Champion
-  image: /images/sections/achievements/sport.jpg
-  summary: Champion in cycling inter-city cycling championship 2020.
+- title: SPOT Award Recipient
+  image: /images/sections/achievements/spot_award.png
+  summary: For building automated data pipelines and BI dashboards that saved Poseida >$250,000.
+- title: Black Belt
+  image: /images/sections/achievements/shito_ryu_logo.png
+  summary: Black belt received for 15+ years of commitment to learning, teaching and practice of karate-do.
 - title: Graduation
   image: /images/sections/achievements/graduation-cap.jpg
-  summary: Received Bachelor of Science (B.Sc.) in Computer Science and Engineer from XYZ University.
-- title: Award Winner
-  image: /images/sections/achievements/woman-winner.jpg
-  summary: Wined best paper award at IEE Conference 2020.
+  summary: Received Master's of Science in Engineering specializing in data science from the University of California, Riverside.
+- title: Personal Best
+  image: /images/sections/achievements/runner.jpg
+  summary: Completed half marathons in Pasadena and Griffith Park with under 10 min/mile pace.

@@ -31,7 +31,7 @@ buttons:
 skills:
 - name: Python
   logo: /images/sections/skills/python-logo.png
-  summary: "Skilled in interacting with APIs, automating tasks and deploying applications with Python. Expertise working with libraries such as Numpy, pandas, Plotly, selenium and scikit-learn to process data, perform exploratory data analysis (EDA), visualize data and build machine learning models."
+  summary: "Skilled in interacting with APIs, automating tasks and deploying applications with Python. Expertise working with libraries such as Numpy, pandas, Plotly, selenium and scikit-learn. I've used these libraries to process data, perform exploratory data analysis (EDA), automate tasks, visualize data and build machine learning models."
   categories: ["language"]
   url: "https://www.python.org/"
 
@@ -44,7 +44,7 @@ skills:
 
 - name: AWS
   logo: /images/sections/skills/AWS_Logo.png
-  summary: "Certified Cloud Practitioner. Used AWS Lambda, Amazon Athena, an S3 data lake, and AWS Step Functions to build a automated data pipelines and databases."
+  summary: "Certified Cloud Practitioner. Used AWS Lambda, Amazon Athena, an S3 data lake, and AWS Step Functions to build automated data pipelines and databases."
   categories: ["cloud"]
 
 # - name: Docker
