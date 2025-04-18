@@ -1,4 +1,4 @@
-baseURL: https://mannyargueta.github.io
+baseURL: https://mannyargs42.github.io
 
 languageCode: en-US
 title: "Manny Argueta"
@@ -100,11 +100,11 @@ params:
 
     # Enable and configure portfolio
     portfolio:
-      enable: false
+      enable: true
 
     # Enable and configure blog posts
     blog:
-      enable: false
+      enable: true
       showAuthor: true # shows the author of post (defaults true)
       # Share post on different social media
       shareButtons:
