@@ -312,3 +312,6 @@ params:
     # Show/hide disclaimer notice in the footer. Default is "false".
     disclaimer:
       enable: true
+  
+security:
+  enableInlineShortcodes: true
