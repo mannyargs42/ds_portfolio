@@ -1,14 +1,16 @@
 ---
-title: "Class 1: Data Scientist, Meet Financial Markets"
+title: "1: Data Scientist, Meet Financial Markets"
 date: 2025-04-10T16:52:45-07:00
 tags: ["Finance", "Data Science"]
 categories: ["Finance"]
 hero: images/hero-classroom.png
 menu:
   sidebar:
-    name: Financial Markets
-    identifier: financial markets
-    weight: 1
+    name: Intro
+    identifier: ds 1
+    weight: 3
+    parent: data-science
+
 
 ---
 
@@ -21,7 +23,7 @@ We’ll explore several financial market concepts that you should be familiar wi
 
 Keep in mind that, as a data scientist, your ultimate goal should be to drive positive outcomes, usually profits, for your company or client via meaningful insights for improved decision-making. Understanding the financial assets your company deals with or the markets in which it operates is crucial for providing these insights. So, whether you work in finance, fintech or neither, it is important to understand financial markets to succeed in your role.
 
-{{< img src="/posts/finance/images/money-tree.jpg" align="center" title="money tree">}}
+{{< img src="/posts/finance/money-tree.jpg" align="center" title="money tree">}}
 
 #### Financial Market Concepts:
 
