@@ -23,7 +23,7 @@ We’ll explore several financial market concepts that you should be familiar wi
 
 Keep in mind that, as a data scientist, your ultimate goal should be to drive positive outcomes, usually profits, for your company or client via meaningful insights for improved decision-making. Understanding the financial assets your company deals with or the markets in which it operates is crucial for providing these insights. So, whether you work in finance, fintech or neither, it is important to understand financial markets to succeed in your role.
 
-{{< img src="/posts/finance/money-tree.jpg" align="center" title="money tree">}}
+{{< img src="/posts/finance/data_science/class1/money-tree.jpg" align="center" title="money tree">}}
 
 #### Financial Market Concepts:
 
@@ -58,6 +58,7 @@ Cryptocurrencies go against conventional, centralized financial systems by using
 
 There are many kinds of financial assets that you may need to be aware of for your company or personal financial needs. Now, let’s take a look at how companies leverage these financial concepts and how you can help them succeed as a data scientist.
 
+
 #### Financial Technology and Data Science:
 
 Fintech companies have utilized financial data, in addition to user behavior data, to create products that make borrowing and investing faster and easier. Companies like Affirm use transaction data and credit scores to build machine learning models that enable safer lending in their “buy now, pay later” services. Brex performs similar analyses on companies looking for their corporate credit cards and financial management services. Most companies use data science techniques to discover the best rates for their borrowing, savings, credit and investment products. 
@@ -84,6 +85,7 @@ Risk management is important to all companies, so they benefit from the models t
 One of the most valuable skills that a data scientist can have is the ability to clearly communicate insights. Data visualization is crucial for this because it helps your audience see your work and understand the conclusions you are drawing. In finance roles, where you will likely need to communicate insights to your company’s stakeholders, it is important to create data visualizations that are easy to follow while you present your findings or recommendations.
 
 If you are contributing to trading platforms or other products that face customers, it is also important to present financial data in a way that is easy to understand. Customers would prefer to see a time series chart of the stock they want to purchase, for example. It allows them to make a much more informed decision than they would with just a listing price.
+
 
 #### Conclusion:
 
