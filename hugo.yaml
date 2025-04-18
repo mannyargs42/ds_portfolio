@@ -35,6 +35,7 @@ languages:
 # default language for the content
 defaultContentLanguage: en
 
+staticDir: "static"
 
 # Allow raw html in markdown file
 markup:
@@ -74,7 +75,7 @@ params:
     favicon: /images/site/MA_small_logo.png
 
   # GitHub repo of your site
-  gitRepo: https://github.com/mannyargs42/mannyargueta.github.io
+  gitRepo: https://github.com/mannyargs42/ds_portfolio
   # Default branch of your Git repo
   gitBranch: main
 
