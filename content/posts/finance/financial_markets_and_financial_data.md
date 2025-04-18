@@ -15,8 +15,6 @@ menu:
 ## Financial Markets & Data Science
 
 
-
-
 While you’ve pursued your career in data science, you’ve probably already encountered financial market concepts to some extent. Perhaps you’ve seen news about the rise and fall of your ideal company’s stock prices. Maybe (hopefully) you’ve started allocating some of your income into a retirement account. Or maybe you just really, *really* wanted to see Kendrick Lamar and SZA and had to take a short-term loan out to pay for it. 
 
 We’ll explore several financial market concepts that you should be familiar with here, many of which relate to transactions that occur every day. We’ll also discuss how data is revolutionizing financial markets in practice, and how data-driven companies have facilitated the way we interact with financial markets. 
@@ -34,22 +32,28 @@ Companies and individuals at times need to raise money to increase the amount of
 ##### Stocks:
 
 Stocks, or equities, are ownership shares of a corporation that an investor can purchase. Shares of a public corporation are bought and sold freely. Owners of common stock profit from residual claims on the assets and income of a corporation, as well as any increase in value of their shares. The price of common stock is dependent on accurate data being filed by public companies.
+
 Technology has made trading easier for individual investors by allowing them to buy equities quickly on platforms like Robinhood. Companies like Robinhood profit from sending purchase orders to market makers, who pay them for the opportunity to make stock purchases for those orders (a process called Payment for Order Flow or PFOF). This makes trading accessible to individual investors and removes any commissions that brokers would normally charge to their clients. Data scientists at companies like Robinhood might collect and analyze this order flow data to improve trading execution and understand user trends.
 
 ##### Bonds:
 
 Bonds include Treasury notes, Treasury bonds, municipal bonds and corporate bonds. While generally considered long-term investments, with Treasury bonds ranging up to 30 years to maturity, bonds have short-term and long-term maturities. They offer unique pros and cons for investors. For example, municipal bonds are issued by local or state governments and are exempt from federal taxes. Corporate bonds might be desirable yields, and they pay interest semi-annually, but carry more inherent risk than bonds backed by the government.
+
 Interest rates are tied to the bond market because bonds represent loans. Companies often fund their growth and operations using debt financing, which affects their overall expenses due to interest rates. Finance companies like SoFi offer investment products like Exchange Traded Funds (ETFs), which provide diversified investment options that can include bonds for diverse and lower-risk offerings. Data scientists in financial roles might need to understand bonds to build models that predict interest rate movements or assess the risk of fixed-income portfolios.
 
 ##### Derivatives:
 
 Derivative assets have their values tied to (or, derived from) other assets. For example, options allow holders to buy or sell another asset at a specified price. When investors utilize options, they bet on whether the price of another asset will rise or fall by the date or expiration for the option.
+
 Futures contracts are agreements between investors, a buyer and a seller, to exchange an asset for a specified price at some maturity date. For example, an oil futures contract might be agreed upon for a price of <span>$</span>50 per barrel and an exchange date 2 months from now. If the price of oil has gone up to $55 in that time, the purchaser of the asset profits from the contract.
 
 ##### Other:
 Money market securities are short-term and very low risk. They can be comparable to savings accounts in terms of liquidity and risk. Some money market securities, such as Treasury bills, are very low risk because they are government-guaranteed. Institutional money market securities, such as commercial paper and certificates of deposit, are not quite so powerfully guaranteed, but are more liquid and generally low risk. You can invest in money market funds, and the fund you invest in purchases Treasury bills, commercial paper, certificates of deposit and other cash equivalents.
+
 Private equity refers to transactions that differ from public stock exchanges and usually occur in large transactions. An example is venture capital, where investors privately provide capital for young companies in exchange for equity that may be worth much more if the companies grow. And another is the purchase of a small or struggling firm by a private equity firm that will fix or expand the business to later sell it for a profit.
+
 Cryptocurrencies go against conventional, centralized financial systems by using blockchain technology. In centralized financial systems, people are linked to their purchases and the link is a security risk for their personal information. Blockchain technologies provide pseudonymity for transactions, which is appealing to many. 
+
 There are many kinds of financial assets that you may need to be aware of for your company or personal financial needs. Now, let’s take a look at how companies leverage these financial concepts and how you can help them succeed as a data scientist.
 
 #### Financial Technology and Data Science:
@@ -61,13 +65,17 @@ Let’s take a look at some of the data science tools that these companies use t
 
 ##### Data Analysis:
 
-Data analysis helps companies make sense of the financial and user data they collect. Exploratory data analysis, statistical analysis and time series analysis are at the forefront for finance. The objectives for many of these companies might be to identify patterns and trends, or identify anomalies in the market or in user transactions. Financial data helps them assess risk and optimize pricing. As a data scientist, you might help them make personalized recommendations to users, or improve decision-making for product offerings or trades. Utilizing data science allows them to gain an advantage over their competitors and offer their customers the best and most innovative products.
+Data analysis helps companies make sense of the financial and user data they collect. Exploratory data analysis, statistical analysis and time series analysis are at the forefront for finance. The objectives for many of these companies might be to identify patterns and trends, or identify anomalies in the market or in user transactions. 
+
+Financial data helps them assess risk and optimize pricing. As a data scientist, you might help them make personalized recommendations to users, or improve decision-making for product offerings or trades. Utilizing data science allows them to gain an advantage over their competitors and offer their customers the best and most innovative products.
 
 ##### Modeling:
 
 Along with accurate and real-time data, predictive and analytical models power the services that many companies provide. Because of the nature of investing, users want to predict the outcomes of their financial decisions. They want the most accurate forecasting models to help them feel comfortable with the risk of their investments. 
 
-The companies we’ve discussed want similar confidence in their decisions, so they use models to analyze trading patterns of their users. For companies like Affirm that provide lending services, credit risk models are crucial to set profitable interest rates with lower risk of default. Risk management is important to all companies, so they benefit from the models that data scientists build. Several machine learning and statistical techniques are leveraged when building these models, and comfort with both data science and financial data is important for any data scientist to succeed in improving fintech services.
+The companies we’ve discussed want similar confidence in their decisions, so they use models to analyze trading patterns of their users. For companies like Affirm that provide lending services, credit risk models are crucial to set profitable interest rates with lower risk of default. 
+
+Risk management is important to all companies, so they benefit from the models that data scientists build. Several machine learning and statistical techniques are leveraged when building these models, and comfort with both data science and financial data is important for any data scientist to succeed in improving fintech services.
 
 ##### Data Visualization:
 
