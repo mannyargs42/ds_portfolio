@@ -23,7 +23,7 @@ We’ll explore several financial market concepts that you should be familiar wi
 
 Keep in mind that, as a data scientist, your ultimate goal should be to drive positive outcomes, usually profits, for your company or client via meaningful insights for improved decision-making. Understanding the financial assets your company deals with or the markets in which it operates is crucial for providing these insights. So, whether you work in finance, fintech or neither, it is important to understand financial markets to succeed in your role.
 
-{{< img src="/posts/finance/data_science/class1/money-tree.jpg" align="center" title="money tree">}}
+![money tree](/posts/finance/data_science/class1/money-tree.jpg)
 
 #### Financial Market Concepts:
 
